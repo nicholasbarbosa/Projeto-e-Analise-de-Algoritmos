@@ -1,0 +1,47 @@
+---------------------n = 50000---------------------
+Tempo para criar o vetor: 4.33 milissegundos
+
+Soma: 19863586
+Tempo Bruta: 7604.22 milissegundos
+
+Soma: 19863586
+Tempo divisao e conquista: 845.67 milissegundos
+
+Soma: 19863586
+Tempo programacao dinamica: 1.45 milissegundos
+
+---------------------n = 100000---------------------
+Tempo para criar o vetor: 3.39 milissegundos
+
+Soma: 55342806
+Tempo Bruta: 30308.06 milissegundos
+
+Soma: 55342806
+Tempo divisao e conquista: 11652.22 milissegundos
+
+Soma: 55342806
+Tempo programacao dinamica: 3.03 milissegundos
+
+---------------------n = 500000---------------------
+Tempo para criar o vetor: 19.64 milissegundos
+
+Soma: 78428729
+Tempo Bruta: 764372.47 milissegundos
+
+Soma: 78428729
+Tempo divisao e conquista: 381482.64 milissegundos
+
+Soma: 78428729
+Tempo programacao dinamica: 15.43 milissegundos
+
+---------------------n = 1000000---------------------
+Tempo para criar o vetor: 32.88 milissegundos
+
+Soma: 39754387
+Tempo Bruta: 3088046.31 milissegundos
+
+Soma: 39754387
+Tempo divisao e conquista: 2162671.97 milissegundos
+
+Soma: 39754387
+Tempo programacao dinamica: 30.77 milissegundos

@@ -1,0 +1,17 @@
+Leitura e criação da taneça 0.61 milissegundos
+
+(PD)Total value in the rucksack: 6384
+Items in the rucksack:
+Weight: 201 Value: 886
+Weight: 17 Value: 187
+Weight: 90 Value: 663
+Weight: 24 Value: 286
+Weight: 65 Value: 585
+Weight: 225 Value: 936
+Weight: 58 Value: 213
+Weight: 81 Value: 972
+Weight: 131 Value: 433
+Weight: 7 Value: 738
+Weight: 94 Value: 485
+Tempo PD: 8.42 milissegundos
+
